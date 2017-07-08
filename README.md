@@ -1,1 +1,1 @@
-# selfpublish-it
+# selfpublish-it.github.io
